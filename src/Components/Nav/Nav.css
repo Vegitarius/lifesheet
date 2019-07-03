@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  margin: 5px;
+}
+
+.nav-title {
+  width: 80%;
+}
+
+.nav-button {
+  width: 10%;
+  font-size: 18px;
+  margin: 10px;
+  border-radius: 15px;
+}
